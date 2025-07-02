@@ -1,0 +1,5 @@
+{
+    "appTitle": "Todo",
+    "inputPlaceholder": "Add a new todo",
+    "emptyTodo": "No todos yet!"
+}
